@@ -24,6 +24,7 @@ import java.util.stream.Collectors;
     }
 }
 
+
 /**
  * Factory class to get sample list of flights.
  */
